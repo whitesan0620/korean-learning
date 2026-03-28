@@ -6,7 +6,7 @@ import os
 
 st.set_page_config(page_title="韓文歌詞學習工具", layout="centered")
 
-st.title("🎧 韓文歌詞學習工具（進階流暢版）")
+st.title("🎧 韓文歌詞學習工具")
 
 # 👉 輸入歌詞
 lyrics = st.text_area("請貼上韓文歌詞（每行一句）")
